@@ -1,5 +1,4 @@
-import logo from './logo.svg';
-import bitch from './bitch.png';
+import bitch from './bitch.jpg';
 import './App.css';
 
 function App() {
@@ -7,10 +6,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-        🌿 Official Website of "The Laziest Bitch Today Awards" 🌿
+        🌿 Official Website of "The Laziest Bitch Awards" 🌿
         </p>
         <p>
-          Praise The Laziest Bitch Today
+          Praise The Laziest Bitch
         </p>
         <img src={bitch} className="App-bitch" alt="bitch" />
       </header>
