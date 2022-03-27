@@ -31,6 +31,12 @@ function App() {
         </div>
         <h6 className="App-h">party</h6>
         <iframe src="https://open.spotify.com/embed/playlist/29KYholsef5MtOqr3NE41d" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+        <h5 className="App-h">goodreads</h5>
+        <a href="https://www.goodreads.com/swietique">@swietique</a>
+
+        <h5 className="App-h">trakt</h5>
+        <a href="https://trakt.tv/users/swietique/">@swietique</a>
       </div>
       <div className="App-page">
         <img src={botch} className="App-me" alt="Me" />
